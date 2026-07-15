@@ -1,0 +1,662 @@
+%PDF-1.4
+%ASCII
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4645 >>
+stream
+0.020 0.120 0.260 rg
+0 700 612 92 re f
+1.000 1.000 1.000 rg
+BT
+/F2 23 Tf
+1 0 0 1 36 754 Tm
+(GDIT) Tj
+ET
+0.170 0.720 0.880 rg
+BT
+/F2 8.3 Tf
+1 0 0 1 112 757 Tm
+(GENERAL DYNAMICS INFORMATION TECHNOLOGY) Tj
+ET
+1.000 1.000 1.000 rg
+BT
+/F2 15 Tf
+1 0 0 1 36 729 Tm
+(FIRST 90 DAYS) Tj
+ET
+0.780 0.880 0.960 rg
+BT
+/F1 8.2 Tf
+1 0 0 1 36 712 Tm
+(Enterprise Service Lead | Learn the mission, align the architecture, release trusted capability) Tj
+ET
+1.000 1.000 1.000 rg
+BT
+/F2 9 Tf
+1 0 0 1 548 714 Tm
+(1) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 10.5 Tf
+1 0 0 1 36 665 Tm
+(OPERATING INTENT) Tj
+ET
+0.170 0.720 0.880 RG
+1.2 w
+36 660 m 576 660 l S
+0.080 0.120 0.180 rg
+BT
+/F1 9.6 Tf
+1 0 0 1 36 645 Tm
+(The first 90 days should reduce uncertainty before increasing solution volume. Begin with analyst) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9.6 Tf
+1 0 0 1 36 632 Tm
+(decisions and service dependencies, install governance and architecture mechanisms, and then advance) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9.6 Tf
+1 0 0 1 36 619 Tm
+(prototypes toward operational release.) Tj
+ET
+0.170 0.720 0.880 rg
+BT
+/F2 9 Tf
+1 0 0 1 36 596 Tm
+(DAYS 0-30) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 12 Tf
+1 0 0 1 130 596 Tm
+(IMMERSION & DISCOVERY) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 576 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 576 Tm
+(Listen to CBP analysts, mission owners, enterprise architects, security, data, cloud,) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 564 Tm
+(and program leadership.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 549 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 549 Tm
+(Map operational questions, current services, data flows, cross-domain constraints,) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 537 Tm
+(decision rights, dependencies, and migration-wave status.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 522 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 522 Tm
+(Identify where work stalls: access, lineage, environment readiness, platform fit,) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 510 Tm
+(explainability, integration, adoption, or ownership.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 495 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 495 Tm
+(Establish cadence for the Cross-Domain Working Group, backlog, risk review, and) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 483 Tm
+(executive briefing.) Tj
+ET
+0.350 0.400 0.470 rg
+BT
+/F2 8.4 Tf
+1 0 0 1 48 468 Tm
+(OUTPUTS:) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 48 455.0 Tm
+(Mission decision map | Stakeholder map | Current-state service topology | Risk and dependency) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 48 443.8 Tm
+(register) Tj
+ET
+0.170 0.720 0.880 rg
+BT
+/F2 9 Tf
+1 0 0 1 36 414.6 Tm
+(DAYS 31-60) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 12 Tf
+1 0 0 1 130 414.6 Tm
+(ALIGN & ARCHITECT) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 394.6 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 394.6 Tm
+(Prioritize capabilities using mission value, feasibility, data readiness, governance) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 382.6 Tm
+(burden, reuse potential, and time-to-value.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 367.6 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 367.6 Tm
+(Define reference architecture patterns for natural-language analytics, graph/network) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 355.6 Tm
+(analysis, streaming, model feedback, lineage, and human review.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 340.6 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 340.6 Tm
+(Align each capability to the Cloud Migration gate and define evidence needed to advance.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 48 325.6 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 325.6 Tm
+(Build a prototype backlog with decision owners, exit criteria, security assumptions,) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 60 313.6 Tm
+(adoption requirements, and measurement categories.) Tj
+ET
+0.350 0.400 0.470 rg
+BT
+/F2 8.4 Tf
+1 0 0 1 48 298.6 Tm
+(OUTPUTS:) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 48 285.6 Tm
+(Capability roadmap | Reference architectures | Explainability and lineage baseline | Evidence) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.5 Tf
+1 0 0 1 48 274.40000000000003 Tm
+(backlog) Tj
+ET
+0.750 0.800 0.860 RG
+0.7 w
+36 34 m 576 34 l S
+0.350 0.400 0.470 rg
+BT
+/F1 8 Tf
+1 0 0 1 36 20 Tm
+(Russell Dudek | Enterprise AI & Mission Technology Leader) Tj
+ET
+0.350 0.400 0.470 rg
+BT
+/F1 8 Tf
+1 0 0 1 530 20 Tm
+(Page 1) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 6411 >>
+stream
+0.020 0.120 0.260 rg
+0 700 612 92 re f
+1.000 1.000 1.000 rg
+BT
+/F2 23 Tf
+1 0 0 1 36 754 Tm
+(GDIT) Tj
+ET
+0.170 0.720 0.880 rg
+BT
+/F2 8.3 Tf
+1 0 0 1 112 757 Tm
+(GENERAL DYNAMICS INFORMATION TECHNOLOGY) Tj
+ET
+1.000 1.000 1.000 rg
+BT
+/F2 15 Tf
+1 0 0 1 36 729 Tm
+(FIRST 90 DAYS) Tj
+ET
+0.780 0.880 0.960 rg
+BT
+/F1 8.2 Tf
+1 0 0 1 36 712 Tm
+(Enterprise Service Lead | Learn the mission, align the architecture, release trusted capability) Tj
+ET
+1.000 1.000 1.000 rg
+BT
+/F2 9 Tf
+1 0 0 1 548 714 Tm
+(2) Tj
+ET
+0.170 0.720 0.880 rg
+BT
+/F2 9 Tf
+1 0 0 1 36 665 Tm
+(DAYS 61-90) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 12 Tf
+1 0 0 1 130 665 Tm
+(DELIVER & OPERATIONALIZE) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 9 Tf
+1 0 0 1 48 643 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 643.0 Tm
+(Advance highest-value prototypes through the Cross-Domain Service Airlock with complete) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 630.9 Tm
+(mission, data, model, security, human-authority, and ownership evidence.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 9 Tf
+1 0 0 1 48 615.8 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 615.8 Tm
+(Stand up analyst feedback and model correction loops; define how feedback becomes) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 603.6999999999999 Tm
+(training data, service change, policy review, or a stop decision.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 9 Tf
+1 0 0 1 48 588.5999999999999 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 588.5999999999999 Tm
+(Validate enterprise integration, observability, recovery, documentation, training, and) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 576.4999999999999 Tm
+(transition ownership before operational release.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 9 Tf
+1 0 0 1 48 561.3999999999999 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 561.3999999999999 Tm
+(Produce executive capability assessments, readiness recommendations, deployment choices,) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 549.2999999999998 Tm
+(and the next-quarter investment view.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 9 Tf
+1 0 0 1 48 534.1999999999998 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 534.1999999999998 Tm
+(Coach teams on experimentation discipline, human-centered design, measurable value) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9 Tf
+1 0 0 1 60 522.0999999999998 Tm
+(delivery, and learning capture.) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 10.5 Tf
+1 0 0 1 36 501.99999999999983 Tm
+(DECISION CADENCE) Tj
+ET
+0.170 0.720 0.880 RG
+1.2 w
+36 496.99999999999983 m 576 496.99999999999983 l S
+0.020 0.120 0.260 rg
+BT
+/F2 9.1 Tf
+1 0 0 1 36 481.99999999999983 Tm
+(Weekly) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 481.99999999999983 Tm
+(Capability backlog, blocked dependencies, risk, and evidence review.) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 9.1 Tf
+1 0 0 1 36 462.99999999999983 Tm
+(Biweekly) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 462.99999999999983 Tm
+(Cross-Domain Working Group architecture, access, governance, and integration) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 450.99999999999983 Tm
+(decisions.) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 9.1 Tf
+1 0 0 1 36 431.99999999999983 Tm
+(Monthly) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 431.99999999999983 Tm
+(Executive capability assessment: mission value, readiness, risk, adoption,) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 419.99999999999983 Tm
+(ownership, and investment choice.) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 9.1 Tf
+1 0 0 1 36 400.99999999999983 Tm
+(Per release) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 400.99999999999983 Tm
+(Airlock review with explicit advance, hold, rework, or stop decision and recorded) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 112 388.99999999999983 Tm
+(rationale.) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 10.5 Tf
+1 0 0 1 36 369.99999999999983 Tm
+(BALANCED SCORECARD - MEASUREMENT CATEGORIES) Tj
+ET
+0.170 0.720 0.880 RG
+1.2 w
+36 364.99999999999983 m 576 364.99999999999983 l S
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 42 349.99999999999983 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 349.99999999999983 Tm
+(Mission outcome: decision quality, timeliness, and analyst usefulness.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 42 334.99999999999983 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 334.99999999999983 Tm
+(Trust: explainability, lineage completeness, human authority, auditability, and policy) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 322.99999999999983 Tm
+(compliance.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 42 307.99999999999983 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 307.99999999999983 Tm
+(Flow: cycle time between idea, prototype, gate decision, integration, and operational) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 295.99999999999983 Tm
+(release.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 42 280.99999999999983 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 280.99999999999983 Tm
+(Adoption: analyst use, correction behavior, training readiness, support burden, and) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 268.99999999999983 Tm
+(ownership clarity.) Tj
+ET
+0.020 0.380 0.670 rg
+BT
+/F2 8.95 Tf
+1 0 0 1 42 253.99999999999983 Tm
+(-) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 253.99999999999983 Tm
+(Learning: reusable architecture patterns, repeated failure modes, feedback captured, and) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 8.95 Tf
+1 0 0 1 54 241.99999999999983 Tm
+(stop decisions made early.) Tj
+ET
+0.020 0.120 0.260 rg
+BT
+/F2 10.5 Tf
+1 0 0 1 36 226.99999999999983 Tm
+(DAY-90 TEST) Tj
+ET
+0.170 0.720 0.880 RG
+1.2 w
+36 221.99999999999983 m 576 221.99999999999983 l S
+0.080 0.120 0.180 rg
+BT
+/F1 9.3 Tf
+1 0 0 1 36 206.99999999999983 Tm
+(The team can explain which capabilities matter most, where each sits in the migration and release) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9.3 Tf
+1 0 0 1 36 194.29999999999984 Tm
+(sequence, what evidence is missing, who owns the decision, what the analyst receives, and what must be) Tj
+ET
+0.080 0.120 0.180 rg
+BT
+/F1 9.3 Tf
+1 0 0 1 36 181.59999999999982 Tm
+(learned next.) Tj
+ET
+0.750 0.800 0.860 RG
+0.7 w
+36 34 m 576 34 l S
+0.350 0.400 0.470 rg
+BT
+/F1 8 Tf
+1 0 0 1 36 20 Tm
+(Russell Dudek | Enterprise AI & Mission Technology Leader) Tj
+ET
+0.350 0.400 0.470 rg
+BT
+/F1 8 Tf
+1 0 0 1 530 20 Tm
+(Page 2) Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000016 00000 n 
+0000000065 00000 n 
+0000000128 00000 n 
+0000000198 00000 n 
+0000000273 00000 n 
+0000000409 00000 n 
+0000005105 00000 n 
+0000005241 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+11703
+%%EOF
