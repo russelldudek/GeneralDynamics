@@ -1,0 +1,14 @@
+:root {
+  /* Source-sampled from current GDIT public logo and website surfaces. */
+  --gdit-ink: #20262e;
+  --gdit-navy: #071b33;
+  --gdit-blue: #005b9f;
+  --gdit-sky: #55c8e8;
+  --gdit-orange: #f5a623;
+  --gdit-white: #ffffff;
+  --gdit-mist: #eaf1f6;
+  --gdit-steel: #8aa0b5;
+  /* Candidate-original role accent; subordinate to GDIT recognition colors. */
+  --campaign-lime: #b9d84b;
+  --campaign-danger: #ff7b64;
+}
