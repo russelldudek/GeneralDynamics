@@ -58,9 +58,54 @@
   box-shadow: 0 0 30px var(--campaign-lime);
 }
 
+.dark .scenario-panel {
+  color: var(--gdit-ink);
+  background: #f4f8fb;
+  border-left-color: var(--gdit-blue);
+}
+
+.dark .scenario-panel h3 {
+  color: var(--gdit-navy);
+}
+
+.dark .scenario-panel p {
+  color: #29445a;
+}
+
+.dark .scenario-panel .scenario-button {
+  color: #111820;
+  background: #ffffff;
+  border-color: #9fb4c4;
+}
+
+.dark .scenario-panel .scenario-button[aria-pressed='true'] {
+  color: #ffffff;
+  background: var(--gdit-navy);
+  border-color: var(--gdit-navy);
+}
+
+.dark .scenario-panel .scenario-button:focus-visible,
+.dark .scenario-panel .reset:focus-visible {
+  outline: 3px solid var(--gdit-orange);
+  outline-offset: 3px;
+}
+
+.dark .scenario-panel .reset {
+  color: #005b9f;
+  font-weight: 700;
+  text-underline-offset: .18em;
+}
+
 @media (prefers-reduced-motion: reduce) {
   .airlock .service-capsule {
     left: 90% !important;
     transition: none !important;
+  }
+}
+
+@media (forced-colors: active) {
+  .dark .scenario-panel,
+  .dark .scenario-panel .scenario-button {
+    forced-color-adjust: auto;
   }
 }
