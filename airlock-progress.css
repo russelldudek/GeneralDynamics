@@ -1,0 +1,66 @@
+.airlock .chambers {
+  --airlock-progress: 0%;
+  margin-bottom: 48px;
+}
+
+.airlock .chambers::before {
+  content: '';
+  position: absolute;
+  left: 10%;
+  right: 10%;
+  bottom: -24px;
+  height: 2px;
+  background: linear-gradient(
+    90deg,
+    var(--campaign-lime) 0 var(--airlock-progress),
+    rgba(85, 200, 232, .34) var(--airlock-progress) 100%
+  );
+  box-shadow: 0 0 10px rgba(85, 200, 232, .18);
+  z-index: 2;
+}
+
+.airlock .service-capsule {
+  position: absolute;
+  top: auto;
+  bottom: -32px;
+  left: 10%;
+  z-index: 4;
+  transform: translateX(-50%);
+  animation: none;
+  transition: left .72s cubic-bezier(.22, .9, .25, 1), box-shadow .25s ease;
+}
+
+.airlock .chamber.completed {
+  border-color: rgba(185, 216, 75, .58);
+  box-shadow: inset 0 -3px 0 rgba(185, 216, 75, .36);
+}
+
+.airlock .chamber.completed .chamber-num {
+  color: rgba(185, 216, 75, .74);
+}
+
+.airlock .airlock-readout {
+  margin-top: 0;
+}
+
+.airlock .seal {
+  opacity: .56;
+  transition: opacity .25s ease, background-color .25s ease, box-shadow .25s ease;
+}
+
+.airlock.complete .seal {
+  opacity: 1;
+  background: rgba(185, 216, 75, .08);
+  box-shadow: 0 0 22px rgba(185, 216, 75, .2);
+}
+
+.airlock.complete .service-capsule {
+  box-shadow: 0 0 30px var(--campaign-lime);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .airlock .service-capsule {
+    left: 90% !important;
+    transition: none !important;
+  }
+}
